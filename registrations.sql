@@ -9,3 +9,4 @@ CREATE TABLE IF NOT EXISTS registrations (
     phone VARCHAR(20) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
