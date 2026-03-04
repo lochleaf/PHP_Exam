@@ -22,7 +22,7 @@
         <label for="phone">Phone:</label><br>
         <input type="text" id="phone" name="phone"><br><br>
 
-        <button type="submit">Register</button>
+        <a href="thankyou.php"><button type="submit">Register</button></a>
 
     </form>
 
